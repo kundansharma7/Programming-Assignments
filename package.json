@@ -1,0 +1,17 @@
+{
+  "name": "nodeangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "parseno": "node getDegitalNo.js",
+    "start": "node server.js"
+  },
+  "author": "Kundan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.1.1",
+    "express": "^4.16.3"
+  }
+}
